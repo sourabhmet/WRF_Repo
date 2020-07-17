@@ -1,2 +1,2 @@
 # WRF_Repo
-It can be used to run all WRF .exe in one place 
+It can be use run all exe files in WRF together in one place 
